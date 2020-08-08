@@ -11,7 +11,7 @@ source ./venv/activate
 ## Requirements 
 
 ```python
-pip install fastapi Cython
+pip install uvicorn fastapi Cython
 ```
 
 ## Build cython module
